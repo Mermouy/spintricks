@@ -1,0 +1,25 @@
+---
+ID: 2393
+post_title: 2014 European Contest
+author: Webmaster
+post_excerpt: |
+  3 combos
+  1.	Daniel Konečný (CZ)
+  2.	Tyler Young  (US)
+  3.	Jakub Konečný (CZ)
+  4.	Petr Kavka  (CZ)
+layout: post
+permalink: >
+  http://spintricks.org/2014-european-contest/
+published: true
+post_date: 2018-03-16 04:04:23
+---
+[et_pb_section bb_built="1"][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.0.106" background_layout="light" text_orientation="center" custom_padding="20px||5px|" border_radii="on|5px|5px|5px|5px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.71)" animation_style="slide" animation_direction="left"]
+<h4>3 combos</h4>
+<ol>
+ 	<li><a href="/category/spinners/daniel.k">Daniel Konečný</a> (CZ)</li>
+ 	<li><a href="/category/spinners/tyler-young">Tyler Young</a> (US)</li>
+ 	<li><a href="/category/spinners/jakub.k">Jakub Konečný</a> (CZ)</li>
+ 	<li>Petr Kavka (CZ)</li>
+</ol>
+[/et_pb_text][et_pb_video _builder_version="3.0.106" src="http://youtu.be/H4tNLI-XZ3g" src_webm="http://youtu.be/H4tNLI-XZ3g" image_src="//i.ytimg.com/vi/H4tNLI-XZ3g/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][et_pb_video _builder_version="3.0.106" src="http://youtu.be/MUzXdNvMJNs" src_webm="http://youtu.be/MUzXdNvMJNs" image_src="//i.ytimg.com/vi/MUzXdNvMJNs/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][et_pb_video _builder_version="3.0.106" src="http://youtu.be/rbljvj4sauc" src_webm="http://youtu.be/rbljvj4sauc" image_src="//i.ytimg.com/vi/rbljvj4sauc/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][et_pb_video _builder_version="3.0.106" src="http://youtu.be/iEMgycucHWI" src_webm="http://youtu.be/iEMgycucHWI" image_src="//i.ytimg.com/vi/iEMgycucHWI/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][et_pb_video _builder_version="3.0.106" src="http://www.youtube.com/watch?v=LiO4hvMg06w" src_webm="http://www.youtube.com/watch?v=LiO4hvMg06w" image_src="//i.ytimg.com/vi/LiO4hvMg06w/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][et_pb_video _builder_version="3.0.106" src="http://www.youtube.com/watch?v=U_rTdMqEDfk" src_webm="http://www.youtube.com/watch?v=U_rTdMqEDfk" image_src="//i.ytimg.com/vi/U_rTdMqEDfk/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][et_pb_video _builder_version="3.0.106" src="https://www.youtube.com/watch?v=TAC0fIyWQYU" src_webm="https://www.youtube.com/watch?v=TAC0fIyWQYU" image_src="//i.ytimg.com/vi/U_rTdMqEDfk/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][et_pb_video _builder_version="3.0.106" src="http://www.youtube.com/watch?v=Bdl2rp_HWQA" src_webm="http://www.youtube.com/watch?v=Bdl2rp_HWQA" image_src="//i.ytimg.com/vi/Bdl2rp_HWQA/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][et_pb_video _builder_version="3.0.106" src="http://www.youtube.com/watch?v=IDSOPb_xh9U" src_webm="http://www.youtube.com/watch?v=IDSOPb_xh9U" image_src="//i.ytimg.com/vi/IDSOPb_xh9U/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][et_pb_video _builder_version="3.0.106" src="http://www.youtube.com/watch?v=Jx0NByKZvGw" src_webm="http://www.youtube.com/watch?v=Jx0NByKZvGw" image_src="//i.ytimg.com/vi/Jx0NByKZvGw/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][et_pb_video _builder_version="3.0.106" src="http://www.youtube.com/watch?v=DrYgjwTmfAI" src_webm="http://www.youtube.com/watch?v=DrYgjwTmfAI" image_src="//i.ytimg.com/vi/DrYgjwTmfAI/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][et_pb_video _builder_version="3.0.106" src="http://www.youtube.com/watch?v=JBBWIFV7SN4" src_webm="http://www.youtube.com/watch?v=JBBWIFV7SN4" image_src="//i.ytimg.com/vi/JBBWIFV7SN4/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][/et_pb_column][/et_pb_row][/et_pb_section]
