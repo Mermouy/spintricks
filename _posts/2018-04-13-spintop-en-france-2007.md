@@ -2,14 +2,14 @@
 ID: 2318
 post_title: Spintop en France 2007
 author: Webmaster
-post_excerpt: ""
+post_excerpt: 'We spent a "Spintop" weekend with players from paris : didier,yochi,jim et lapin.'
 layout: post
 permalink: >
   http://spintricks.org/spintop-en-france-2007/
 published: true
 post_date: 2018-04-13 00:51:45
 ---
-[et_pb_section bb_built="1"][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.0.106" background_layout="light" text_orientation="justified" custom_padding="10px|5px|10px|5px" border_radii="on|5px|5px|5px|5px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.63)" animation_style="slide"]
+[et_pb_section bb_built="1"][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.2" background_layout="light" text_orientation="justified" custom_padding="10px|5px|10px|5px" border_radii="on|5px|5px|5px|5px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.63)" animation_style="slide"]
 
 We spent a "Spintop" weekend with players from paris : didier,yochi,<a href="/category/spinners/jim-in-paris">jim</a> et lapin.
 

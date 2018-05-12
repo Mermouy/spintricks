@@ -44,8 +44,8 @@ Probably one of the most supplied and varied channel. Presentations, visits, tri
 
 <a href="http://ta0.com">Website</a>
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_image _builder_version="3.0.106" src="http://spintricks.org/wp-content/uploads/2018/03/ta0.jpg" show_in_lightbox="off" url="/category/spinners/ta0" url_new_window="off" use_overlay="on" overlay_icon_color="#0c71c3" hover_overlay_color="rgba(12,113,195,0.53)" hover_icon="%%129%%" always_center_on_mobile="on" force_fullwidth="off" show_bottom_space="on" /][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="4_4"][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.106" make_equal="on" border_radii="on|5px|5px|5px|5px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.67)" animation_style="slide" custom_padding="10px|10px|10px|10px"][et_pb_column type="3_4"][et_pb_text _builder_version="3.0.106" background_layout="light"]
-<h1><a href="/category/spinners/energia">Energia</a></h1>
+[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_image _builder_version="3.0.106" src="http://spintricks.org/wp-content/uploads/2018/03/ta0.jpg" show_in_lightbox="off" url="/category/spinners/ta0" url_new_window="off" use_overlay="on" overlay_icon_color="#0c71c3" hover_overlay_color="rgba(12,113,195,0.53)" hover_icon="%%129%%" always_center_on_mobile="on" force_fullwidth="off" show_bottom_space="on" /][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="4_4"][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.106" make_equal="on" border_radii="on|5px|5px|5px|5px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.67)" animation_style="slide" custom_padding="10px|10px|10px|10px"][et_pb_column type="3_4"][et_pb_text _builder_version="3.2"]
+<h1><a href="/category/spinners/energia-basics">Energia</a></h1>
 Probably one of the most supplied series of tricks tutorials...
 
 Created for a Spanish peonza manufacturer

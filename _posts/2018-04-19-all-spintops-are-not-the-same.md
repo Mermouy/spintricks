@@ -2,7 +2,9 @@
 ID: 2789
 post_title: 'All spintops are not the same&#8230;'
 author: Webmaster
-post_excerpt: ""
+post_excerpt: >
+  A nice shot of (almost) all type of
+  spinning tops.
 layout: post
 permalink: >
   http://spintricks.org/all-spintops-are-not-the-same/

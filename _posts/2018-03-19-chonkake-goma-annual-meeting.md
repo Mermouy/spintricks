@@ -7,7 +7,7 @@ layout: post
 permalink: >
   http://spintricks.org/chonkake-goma-annual-meeting/
 published: true
-post_date: 2018-04-19 02:04:23
+post_date: 2018-03-19 02:04:23
 ---
 [et_pb_section bb_built="1"][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.0.106" background_layout="light" text_text_shadow_color="rgba(0,0,0,0.64)" text_orientation="center" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" text_text_shadow_vertical_length="0.1em" text_text_shadow_blur_strength="0.1em" custom_padding="20px||20px|"]
 

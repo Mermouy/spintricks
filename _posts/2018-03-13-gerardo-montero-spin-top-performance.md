@@ -2,20 +2,22 @@
 ID: 1369
 post_title: Gerardo Montero Spin Top performance
 author: Webmaster
-post_excerpt: ""
+post_excerpt: >
+  Fragments of spin performance by Gerardo
+  Montero. Spit, fruit and objects
 layout: post
 permalink: >
   http://spintricks.org/gerardo-montero-spin-top-performance/
 published: true
 post_date: 2018-03-13 23:08:50
 ---
-[et_pb_section bb_built="1"][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.0.106" background_layout="light" text_text_shadow_color="rgba(0,0,0,0.64)" text_orientation="center" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" text_text_shadow_vertical_length="0.1em" text_text_shadow_blur_strength="0.1em" custom_padding="20px||20px|" box_shadow_color="rgba(0,0,0,0.6)" animation_style="slide" animation_direction="left"]
+[et_pb_section bb_built="1"][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.2" background_layout="light" text_text_shadow_color="rgba(0,0,0,0.64)" text_orientation="center" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" text_text_shadow_vertical_length="0.1em" text_text_shadow_blur_strength="0.1em" custom_padding="20px||20px|" box_shadow_color="rgba(0,0,0,0.6)" animation_style="slide" animation_direction="left"]
 
 Fragments of spin performance by <a href="/category/spinners/g.montero">Gerardo Montero</a>.
 
 Spit, fruit and objects.
 
-[/et_pb_text][et_pb_video _builder_version="3.0.106" src="http://youtu.be/aE8nLPvg1Cg" src_webm="http://youtu.be/aE8nLPvg1Cg" image_src="//i.ytimg.com/vi/aE8nLPvg1Cg/hqdefault.jpg" play_icon_color="rgba(13,145,216,0.69)" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" animation_style="bounce" custom_margin="0px|0px|0px|0px" box_shadow_color="rgba(0,0,0,0.68)" custom_padding="20px|20px|20px|20px" /][et_pb_divider _builder_version="3.0.105" height="30px" /][et_pb_team_member _builder_version="3.0.106" name="Gerardo Montero" background_layout="light" position="Campeon from Xalapa, México" image_url="http://spintricks.org/wp-content/uploads/2018/03/gerardo-2.png" text_orientation="justified" body_text_align="justify" box_shadow_style_image="preset1" box_shadow_color_image="rgba(0,0,0,0.62)" border_radii_image="on|5px|5px|5px|5px" custom_padding="10px|10px|10px|10px" border_radii="on|5px|5px|5px|5px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="fold" animation_duration="1500ms" icon_color="#0c71c3" icon_hover_color="#8300e9" header_level="h1"]
+[/et_pb_text][et_pb_video _builder_version="3.0.106" src="http://youtu.be/aE8nLPvg1Cg" src_webm="http://youtu.be/aE8nLPvg1Cg" image_src="//i.ytimg.com/vi/aE8nLPvg1Cg/hqdefault.jpg" play_icon_color="rgba(13,145,216,0.69)" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" animation_style="bounce" custom_margin="0px|0px|0px|0px" box_shadow_color="rgba(0,0,0,0.68)" custom_padding="20px|20px|20px|20px" /][et_pb_divider _builder_version="3.0.105" height="30px" color="#ffffff" show_divider="off" /][et_pb_team_member _builder_version="3.0.106" name="Gerardo Montero" background_layout="light" position="Campeon from Xalapa, México" image_url="http://spintricks.org/wp-content/uploads/2018/03/gerardo-2.png" text_orientation="justified" body_text_align="justify" box_shadow_style_image="preset1" box_shadow_color_image="rgba(0,0,0,0.62)" border_radii_image="on|5px|5px|5px|5px" custom_padding="10px|10px|10px|10px" border_radii="on|5px|5px|5px|5px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="fold" animation_duration="1500ms" icon_color="#0c71c3" icon_hover_color="#8300e9" header_level="h1"]
 
 Extracted from <span style="color: #333399;"><a style="color: #333399;" href="http://gerardomontero.com">his website</a></span>:
 <blockquote>

@@ -2,7 +2,9 @@
 ID: 2798
 post_title: 2015 National Koma contest
 author: Webmaster
-post_excerpt: ""
+post_excerpt: >
+  A nice koma shot during the national
+  Japan koma contest.
 layout: post
 permalink: >
   http://spintricks.org/2015-national-koma-contest/

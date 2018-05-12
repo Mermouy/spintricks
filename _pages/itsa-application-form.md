@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-03-17 23:10:57
 ---
-[et_pb_section bb_built="1" _builder_version="3.0.106"][et_pb_row _builder_version="3.0.106" make_fullwidth="on"][et_pb_column type="4_4"][et_pb_text _builder_version="3.0.106" background_layout="light"]
+[et_pb_section bb_built="1" _builder_version="3.0.106"][et_pb_row _builder_version="3.0.106" make_fullwidth="on"][et_pb_column type="4_4"][et_pb_text _builder_version="3.2"]
 
 If, on the next page, you pay for a regular (full) membership, it entitles you to vote or to be elected to any position on <strong>ITSA</strong>. You will receive a free collectible cloth patch with the <strong>ITSA</strong> logo. Your donation will help <strong>ITSA</strong> promote spinning tops.
 
@@ -17,7 +17,7 @@ If you want to become a junior member, it is completely <strong>FREE</strong>! I
 
 Please, fill this form and click the submit button.
 
-All fields marked with a * are required.
+All fields are required.
 
 When your membership is manually processed you will receive an email with your member number, a membership card that you can print and welcome instructions.
 
