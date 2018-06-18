@@ -1,0 +1,18 @@
+---
+ID: 2971
+post_title: Hand carved top video
+author: Webmaster
+post_excerpt: ""
+layout: post
+permalink: >
+  http://spintricks.org/hand-carved-top-video/
+published: true
+post_date: 2018-06-18 23:37:29
+---
+[et_pb_section bb_built="1"][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.7" text_orientation="center" custom_padding="20px||5px|" border_radii="on|5px|5px|5px|5px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.71)" animation_style="slide" animation_direction="left"]
+
+Original title: ...con Utrera yo aprendí... Tacho Utrera hace un trompo.
+
+What do you need more than a machete to craft a top?
+
+[/et_pb_text][et_pb_video _builder_version="3.7" src="https://youtu.be/wqCwxVzr1KA" src_webm="https://youtu.be/wqCwxVzr1KA" image_src="//i.ytimg.com/vi/wqCwxVzr1KA/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][/et_pb_column][/et_pb_row][/et_pb_section]
