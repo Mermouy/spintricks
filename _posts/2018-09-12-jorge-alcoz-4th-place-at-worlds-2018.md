@@ -13,4 +13,4 @@ post_date: 2018-09-12 18:20:53
 
 Jorge Alcoz take the 4th place at world's 2018 in Shanghai
 
-[/et_pb_text][et_pb_video _builder_version="3.13.1" src="http://youtu.be/rtbV70Hh2rs" src_webm="http://youtu.be/rtbV70Hh2rs" image_src="//i.ytimg.com/vi/rtbV70Hh2rs/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][/et_pb_column][/et_pb_row][/et_pb_section]
+[/et_pb_text][et_pb_video _builder_version="3.13.1" src="http://www.youtube.com/watch?v=BNQzDNLq_m4" src_webm="http://www.youtube.com/watch?v=BNQzDNLq_m4" image_src="//i.ytimg.com/vi/BNQzDNLq_m4/hqdefault.jpg" play_icon_color="#0c71c3" border_radii="on|8px|8px|8px|8px" box_shadow_style="preset1" box_shadow_color="rgba(0,0,0,0.66)" animation_style="bounce" /][/et_pb_column][/et_pb_row][/et_pb_section]
