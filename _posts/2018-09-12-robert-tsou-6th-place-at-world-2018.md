@@ -1,13 +1,11 @@
 ---
 ID: 3012
-post_title: >
-  Robert Tsou (USA) 6th place at World
-  2018
+post_title: Robert Tsou 6th place at World 2018
 author: Webmaster
 post_excerpt: ""
 layout: post
 permalink: >
-  http://spintricks.org/robert-tsou-usa-6th-place-at-world-2018/
+  http://spintricks.org/robert-tsou-6th-place-at-world-2018/
 published: true
 post_date: 2018-09-12 18:11:45
 ---
